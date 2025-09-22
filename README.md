@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, je suis Audrey Doublet 👋</h1>
-<h4 align="center"> Développeuse Full Stack en formation | Zone01 Rouen <br>
+<h4 align="center"> Développeuse Full Stack en formation | Zone01 Rouen <img src="images/zone01.png" alt="Zone01" width="40" style="vertical-align: middle; margin-left: 1px;"/><br>
 Lien Portfolio</h4>
 <h2 align="left">🧑‍💻 À propos de moi</h2>
 <p align="left">
