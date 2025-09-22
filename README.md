@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Audrey Doublet 👋</h1>
 <h4 align="center"> Développeuse Full Stack en formation | Zone01 Rouen <br>
-Lien Portfolio</h4>
+🌐<a href="https://audreydoublet.fr">audreydoublet.fr</h4>
 <h2 align="left">🧑‍💻 À propos de moi</h2>
 <p align="left">
 <li>🎓 Étudiante en développement full stack | Zone01 Rouen<br>
