@@ -24,38 +24,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyDoublet&layout=compact&theme=radical" />
 </p>
 <h2>📩 Me contacter</h2>
-  <p align="center">
-  <a href="https://audreydoublet.fr" 
-     style="background-color:#00509E;
-            color:white;
-            padding:10px 20px;
-            text-decoration:none;
-            border-radius:5px;
-            font-weight:bold;
-            font-size:16px;
-            margin:0px;">
-    Portfolio
-  </a>
-  <a href="mailto:audreydoublet.dev@gmail.com" 
-     style="background-color:#E65C00;
-            color:white;
-            padding:10px 20px;
-            text-decoration:none;
-            border-radius:5px;
-            font-weight:bold;
-            font-size:16px;
-            margin:5px;">
-    audreydoublet.dev@gmail.com
-  </a>
-  <a href="https://www.linkedin.com/in/audrey-doublet-a3702836a/" 
-     style="background-color:#003366;
-            color:white;
-            padding:10px 20px;
-            text-decoration:none;
-            border-radius:5px;
-            font-weight:bold;
-            font-size:16px;
-            margin:0px;">
-    LinkedIn
-  </a>
-</p>
+  
+
+[![Email](https://img.shields.io/badge/📩-audreydoublet.dev@gmail.com-FF6700?style=for-the-badge)](mailto:audreydoublet.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐-audreydoublet.fr-004080?style=for-the-badge)](https://audreydoublet.fr)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-00509E?style=for-the-badge)](https://www.linkedin.com/in/audrey-doublet-a3702836a/)
