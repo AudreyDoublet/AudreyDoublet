@@ -47,7 +47,7 @@
             margin:5px;">
     audreydoublet.dev@gmail.com
   </a>
-  <a href="dans/audrey-doublet-a3702836a" 
+  <a href="https://www.linkedin.com/in/audrey-doublet-a3702836a/" 
      style="background-color:#003366;
             color:white;
             padding:10px 20px;
