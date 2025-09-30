@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
 <h2>📊 Statistiques GitHub</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AudreyDoublet&show_icons=true&theme=radical&cache_seconds=0" />
