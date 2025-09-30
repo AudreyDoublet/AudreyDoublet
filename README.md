@@ -20,8 +20,9 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <h2>📊 Statistiques GitHub</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AudreyDoublet&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyDoublet&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=AudreyDoublet&show_icons=true&theme=radical&cache_seconds=0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyDoublet&layout=compact&theme=radical&cache_seconds=0" />
+
 </p>
 <h2>📩 Me contacter</h2>
   
