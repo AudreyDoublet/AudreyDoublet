@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Audrey Doublet 👋</h1>
 <h4 align="center"> Développeuse Full Stack en formation | Zone01 Rouen <br>
-🌐<a href="audreydoublet.github.io/Portfolio/">audreydoublet.github.io/Portfolio/</h4>
+🌐<a href="https://audreydoublet.github.io/Portfolio/">audreydoublet.github.io/Portfolio/</h4>
 <h2 align="left">🧑‍💻 À propos de moi</h2>
 <p align="left">
 <li>🎓 Étudiante en développement full stack | Zone01 Rouen<br>
@@ -8,7 +8,7 @@
 <li>💡 Passionnée par la programmation, la création de solutions web et l'apprentissage continu<br>
 <li>🚀 Curieuse des nouvelles technologies et des bonnes pratiques en développement <br>
 <li>🎯 Loisir : trail, escalade et lecture<br>
-<li>🔗 Portfolio : <a href="audreydoublet.github.io/Portfolio/">audreydoublet.github.io/Portfolio/</a>
+<li>🔗 Portfolio : <a href="https://audreydoublet.github.io/Portfolio/">audreydoublet.github.io/Portfolio/</a>
 </p>
 <h2>🔧 Compétences technologiques</h2>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -29,5 +29,5 @@
   
 
 [![Email](https://img.shields.io/badge/📩-audreydoublet.dev@gmail.com-FF6700?style=for-the-badge)](mailto:audreydoublet.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐-audreydoublet.github.io/Portfolio/-004080?style=for-the-badge)](audreydoublet.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐-audreydoublet.github.io/Portfolio/-004080?style=for-the-badge)](https://audreydoublet.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-00509E?style=for-the-badge)](https://www.linkedin.com/in/audrey-doublet-a3702836a/)
