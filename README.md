@@ -20,11 +20,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
-<h2>📊 Statistiques GitHub</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyDoublet&layout=compact&theme=radical&cache_seconds=0" />
-<img src="https://streak-stats.demolab.com?user=AudreyDoublet&theme=radical&cache_seconds=0" />
-</p>
+
 <h2>📩 Me contacter</h2>
   
 
